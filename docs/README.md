@@ -28,7 +28,6 @@ git clone https://github.com/Behnam-Shokri/LeatherPilot2025.git
 
 
 ---
-
 ## 🙋‍♂️ Author
 **Behnam Shokri**  
 
