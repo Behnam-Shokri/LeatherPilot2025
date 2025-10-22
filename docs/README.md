@@ -25,3 +25,11 @@ The project includes tools and scripts for data processing, generating visual re
 1. Clone the repository:
 ```bash
 git clone https://github.com/Behnam-Shokri/LeatherPilot2025.git
+
+
+---
+
+## 🙋‍♂️ Author
+**Behnam Shokri**  
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/behnam-shokri)
