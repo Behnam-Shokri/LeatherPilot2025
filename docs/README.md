@@ -1,15 +1,27 @@
-# tgju_project
+# LeatherPilot2025
 
-این پروژه برای استخراج دیتا از API سایت [tgju.org](https://www.tgju.org) می‌باشد.
+**LeatherPilot2025** is a Python project designed for **data analysis and KPI modeling in the leather industry**.  
+The project includes tools and scripts for data processing, generating visual reports, and building predictive models.
 
-## 📁 ساختار پوشه‌ها
+---
 
-```
-tgju_project/
- ├─ src/ # کدهای اصلی پروژه 
- ├─ tests/ # تست‌های واحد و یکپارچه‌سازی
- ├─ data/ # داده‌های ورودی، خروجی یا نمونه 
- ├─ config/ # فایل‌های تنظیمات، مثل YAML یا JSON 
- ├─ docs/ # مستندات پروژه، مثل README، نمودارها
+## 🚀 Features
+- Processing and managing input data
+- KPI analysis and generating visual reports
+- Building predictive models and interactive dashboards
+- Testing and validating data
 
-```
+---
+
+## 📁 Project Structure
+- `data/` : Data files and output images  
+- `scripts/` : Main project scripts  
+- `tests/` : Tests and sample validation scripts  
+- `tools/` : Helper tools, such as `requirements.txt`  
+
+---
+
+## ⚙️ Installation & Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/Behnam-Shokri/LeatherPilot2025.git
